@@ -1,4 +1,4 @@
-# akka-playground
+# akka-casino
 Tinkering with akka library
 
 
